@@ -1,4 +1,4 @@
-var api = "http://aio.mine2.live:8117";
+var api = "http://178.236.85.196/:44402";
 
 var email = "info@dkc-hvac.com";
 var telegram = "https://t.me/YourPool";
